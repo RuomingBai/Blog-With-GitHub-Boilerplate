@@ -14,7 +14,7 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": true,
+    "enabled": True,
     "repo": "RuomingBai/RuomingBai.github.io@master"
 }
 
