@@ -14,8 +14,8 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": true,
+    "repo": "RuomingBai/RuomingBai.github.io@master"
 }
 
 # 站点设置
